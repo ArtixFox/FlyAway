@@ -5,4 +5,5 @@ Date: 4/8/15
 
 
 
-My name is Hayden I am 16 and in grade 11 taking a grade 12 Computer science course
+My name is Hayden I am 16 and in grade 11 taking a grade 12 Computer science course. I am creating a flash game as my
+major project for this class. It will feature many different elements that I have learned over the time of this course.
